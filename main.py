@@ -7,6 +7,7 @@ import json
 import random
 import string
 import shutil
+import uvloop
 import zipfile
 import urllib
 import subprocess
