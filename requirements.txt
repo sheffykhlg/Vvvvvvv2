@@ -41,3 +41,4 @@ itsdangerous==2.0.1
 m3u8
 cloudscraper
 pytube
+uvloop
